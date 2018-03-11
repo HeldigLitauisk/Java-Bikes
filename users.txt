@@ -1,0 +1,11 @@
+Sandor;Bara;barasndor@gmail.com;271293-3375;Krimsvej 21;12345678;1;Owner;
+Marjahan;Begum;mbe.digi@cbs.dk;040404-1234;Solbjerg Plads 3;12345678;2;Owner;
+Julius;Raulu;juliussurbutis@gmailc.com;040202-1234;Antwerpengade 12;12345678;3;Manager;
+Simon;Sulek;sulek@notyourbusiness.com;120256-0404;Sulkegad4 6;54728493;4;Customer;
+Tomas;Jonas;jonas@gmail.com;123456-6789;Neverstreet 45;54289403;5;Customer;
+Stefan;Nagel;stef.nagel@gmail.com;230694-3572;Halvgade 23;32475298;6;Owner;
+Martina;Engel;engelm@hotmail.com;291192-4343;Krimsvej 87;78642467;7;Owner;
+Jacob;Nygaard;nygaard12@gmail.com;060192-8767;54854545;Lergravsvej 23;8;Owner;
+Viktorija;Raulu;vurbutyte@pzu.lt;040302-0444;Pasiles g. 12;51121245;9;Owner;
+Eimantas;Urb;eimantasurbutis@fwefw.com;040404-0404;Gade 5;12345678;10;Manager;
+Thomas;Flint;sadasd@asdad.dk;123456-1234;asd6;12345678;11;Customer;

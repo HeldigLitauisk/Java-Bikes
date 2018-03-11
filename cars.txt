@@ -1,0 +1,17 @@
+9234;Toyota;Purple;110.0;Gade 5;2;false;
+8546;Citroen;Red;120.0;Jyskvej 5;8;true;
+9461;Fiat;Blue;130.0;Drumergade 14;6;true;
+2868;Volkswagen;Red;130.0;Kongensvej 5;1;true;
+8664;Alfa Romeo;Silver;145.0;Gade 5;2;true;
+1237;Volkswagen;Red;160.0;Kilenvej 2;8;true;
+3786;Mazda;Grey;170.0;Antwerpangdae 2;7;true;
+5532;Volkswagen;Red;190.0;Howitzvej 34;1;true;
+8677;Volvo;Red;199.0;Pasiles g. 12;9;true;
+2239;Audi;Black;280.0;Krimsvej 4;7;true;
+1234;Renault;Black;90.0;Toftvej 79;2;false;
+9645;Citroen;Green;85.0;Borgmester Hansensvej 86;9;true;
+2712;Fiat;White;75.0;Slotsgade 24;10;false;
+5648;Mazda;Yellow;120.0;Lille Vibyvej 88;8;true;
+9456;Audi;Red;145.0;Andekæret 6;5;true;
+4584;Toyota;Blue;150.0;Espegyden 86;4;true;
+2345;BMW;Black;125.0;Sondre Havnevej 57;6;true;
